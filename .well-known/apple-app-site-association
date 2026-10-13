@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["34Y59XH596.me.nikolla.wheelplayer"],
+        "components": [
+          { "/": "/album/*", "comment": "Album links written to NFC tags" }
+        ]
+      }
+    ]
+  }
+}
